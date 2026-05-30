@@ -9,7 +9,7 @@ function App() {
   },[]);
 
   return (
-    <p>{message}</p>
+    <p className="text-3xl font-bold p-4">{message}</p>
   )
 }
 
